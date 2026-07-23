@@ -1,10 +1,14 @@
-<h1 align="center">Hi 👋, I'm Charlotte (이민서)</h1>
-<h3 align="center">Complexity to Simplicity</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C6FF&height=220&section=header&text=Charlotte%20(이민서)&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Complexity%20to%20Simplicity&descAlignY=58&descSize=20" />
 
 <p align="center">
   <a href="https://github.com/options0179">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Backend+%26+Frontend+Developer;Complexity+to+Simplicity;java+%C2%B7+python+%C2%B7+spring+boot+%C2%B7+next.js" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=options0179&label=Profile%20Views&color=6c63ff&style=flat" alt="visitor badge" />
+  <img src="https://img.shields.io/github/followers/options0179?label=Followers&style=flat&color=6c63ff" alt="followers" />
 </p>
 
 ---
@@ -67,3 +71,5 @@
 <p align="center">
   <i>“단순함은 궁극의 정교함이다.” — Complexity to Simplicity</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer" />
