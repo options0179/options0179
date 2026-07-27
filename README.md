@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <i>“단순함은 궁극의 정교함이다.” — Complexity to Simplicity</i>
+  <i>“복잡함을 단순하게” — Complexity to Simplicity</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:6C63FF&height=120&section=footer" />
