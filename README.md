@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/options0179">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Backend+%26+Frontend+Developer;Complexity+to+Simplicity;java+%C2%B7+python+%C2%B7+spring+boot+%C2%B7+next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Software+Engineer;Consistency+creates+miracles." alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 ### 🙋‍♀️ About Me
 
 - 🧩 복잡한 문제를 단순하고 명확하게 풀어내는 것을 좋아하는 개발자, **Charlotte**입니다.
-- 🌱 Java / Spring Boot 기반 백엔드와 Next.js 기반 프론트엔드를 함께 다룹니다.
+- ☕️ Java / Spring Boot 기반 백엔드를 설계하고, Next.js 기반 프론트엔드를 함께 다룹니다.
 - 🛠️ 실무 도구로 Claude Code, Codex 등 AI 협업 워크플로우를 적극 활용합니다.
 - 🎨 Figma로 디자인부터 구현까지 이어지는 흐름을 중요하게 생각합니다.
 
@@ -53,6 +53,15 @@
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
+---
+### 🏆 Competitions & Activities
+
+* `2026.07.28` — '2026 제8회 청소년 ICT 창업가 캠프 대회' 본선 진출
+* `2026.08.03` ~ `2026.08.06` — 제8회 청소년 ICT 창업가 캠프 아카데미 이수
+* `2026.08.10` — 「K-ICT 데이터 크리에이터 캠프」 예선 선발
+* `2026.08.12` — "제17회 전국 창의적 문제해결능력 경진대회" 본선 진출 합격
+
+---
 ---
 
 ### 📊 GitHub Stats
