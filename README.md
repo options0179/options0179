@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 **Tools**
@@ -60,21 +62,9 @@
 * `2026.08.03` ~ `2026.08.06` — 제8회 청소년 ICT 창업가 캠프 아카데미 이수
 * `2026.08.10` — 「K-ICT 데이터 크리에이터 캠프」 예선 선발
 * `2026.08.12` — "제17회 전국 창의적 문제해결능력 경진대회" 본선 진출 합격
+* `2026.09.06`- "2026 제7회 청소년 IT경시대회" 프로그래밍 언어 (Java) 청소년부 장려상 수상
 
 ---
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=options0179&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=options0179&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=options0179&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 <p align="center">
